@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="images">
+    <file>64/accessories-calculator.png</file>
+    <file>64/bluetooth.png</file>
+    <file>64/evolution.png</file>
+    <file>64/final-term.png</file>
+    <file>64/guake-terminal.png</file>
+    <file>64/hipchat.png</file>
+    <file>64/ibus-setup.png</file>
+    <file>64/preferences-desktop-applications.png</file>
+    <file>64/session-properties.png</file>
+    <file>64/system-users.png</file>
+    <file>64/thunderbird.png</file>
+    <file>64/unetbootin.png</file>
+    <file>64/x-office-calendar.png</file>
+  </qresource>
+</RCC>
